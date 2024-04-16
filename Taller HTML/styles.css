@@ -1,0 +1,40 @@
+/* ESTILOS PAGINA WEB */
+
+body{
+
+  background-color: black; 
+}
+
+ 
+  .Logo {
+      margin-top: 3%;
+      margin-left: 30%;
+      width: 40%;
+  }
+
+  .info-dj {
+    color: #ff00008e;
+    margin-top: 5%;
+  }
+
+  .dj-picture{
+    margin-top: 5px;
+    width: 550px; /* Set the width of the image */
+    height: auto; /* Maintain aspect ratio */
+  }
+  .genres-section {
+    padding-top: 1em;
+    color: #ff00008e;
+  }
+
+  h1{
+    color: #ff00008e;
+    font-family: Helvetica;
+    letter-spacing: 5px;
+
+  }
+
+  P{
+  color: #ffffff;
+  
+  }
